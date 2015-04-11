@@ -16,5 +16,4 @@ while True:
 	io.output(RED_LED_2, True);
   os.system("dangeremail.sh")
   os.system("dangertext.sh")
-GPIO.cleanup()
-		
+  time.sleep(180)

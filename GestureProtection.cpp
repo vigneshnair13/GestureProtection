@@ -23,9 +23,9 @@ int main() {
     
     // Initialize Serial port
     cout << endl;
-    cout << "------------------------------------" << endl;
-    cout << "  SparkFun APDS-9960 - GestureTest  " << endl;
-    cout << "------------------------------------" << endl;
+    cout << "------------------------------------------------" << endl;
+    cout << "  SparkFun APDS-9960 - GestureProtectionSystem  " << endl;
+    cout << "------------------------------------------------" << endl;
     
     // Initialize interrupt service routine
     wiringPiISR(APDS9960_INT, INT_EDGE_FALLING,  interruptRoutine);

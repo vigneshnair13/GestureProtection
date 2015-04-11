@@ -6,3 +6,4 @@ chmod u+x /GestureProtection-master/emailcall.sh
 chmod u+x /GestureProtection-master/textcall.sh
 chmod u+x /GestureProtection-master/dangeremail.sh
 chmod u+x /GestureProtection-master/dangertext.sh
+chmod u+x /GestureProtection-master/danger.sh

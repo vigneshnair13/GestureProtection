@@ -3,13 +3,12 @@
 * @brief   Raspberry Pi library for the SparkFun APDS-9960 breakout board
 * @author  Shawn Hymel (SparkFun Electronics), Modified for Raspberry Pi by Justin Woodman
 *
-* @copyright	This code is public domain but you buy me a beer if you use
-* this and we meet someday (Beerware license).
+* @copyright	This code is public domain but you buy me a game if we meet
 *
 * This library interfaces the Avago APDS-9960 to Raspberry Pi over I2C. The library
 * relies on the wiringPi library. to use the library, instantiate an
 * APDS9960 object, call init(), and call the appropriate functions.
-*
+*.
 * APDS-9960 current draw tests (default parameters):
 *   Off:                   1mA
 *   Waiting for gesture:   14mA

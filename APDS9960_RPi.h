@@ -1,10 +1,10 @@
 /**
 * @file    APDS9960_RPi.h
 * @brief   Raspberry Pi library for the SparkFun APDS-9960 breakout board
-* @author  Shawn Hymel (SparkFun Electronics), Modified for Raspberry Pi by Justin Woodman
+* @author  Shawn Hymel (SparkFun Electronics), Modified for Raspberry Pi by Vignesh Nair
 *
-* @copyright	This code is public domain but you buy me a beer if you use
-* this and we meet someday (Beerware license).
+* @copyright	This code is public domain but you buy me a video game if you use
+* this and we meet someday (videogame license).
 *
 * This library interfaces the Avago APDS-9960 to Raspberry Pi over I2C. The library
 * relies on the wiringPi library. to use the library, instantiate an
